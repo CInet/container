@@ -23,3 +23,4 @@ RUN bash -- install-cinet.sh CInet-Polyhedral
 RUN bash -- install-cinet.sh CInet-Gaussoids
 RUN bash -- install-cinet.sh CInet-Semimatroids
 RUN bash -- install-cinet.sh CInet-Adhesive
+RUN bash -- install-cinet.sh CInet-Tools

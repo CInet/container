@@ -23,4 +23,4 @@ $ podman save cinet/all | zstd -o cinet-all.tar.zst
 ```
 
 The whole image is quite big at 2.4 GiB. With zstd compression, it comes
-down to about 820 MiB.
+down to about 820 MiB. The image can be downloaded from <https://cinet.link/install>.
